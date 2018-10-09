@@ -47,4 +47,6 @@ taken the single instruction:
 
 This program example will accept all the strings even multiple of the string 'aa' and it will print strings multiple of 'bcd' and 'cbd' and their mixes,<br/> because of his nondetermination.<br/>
 
+I've done this for school purpose.
+
 
