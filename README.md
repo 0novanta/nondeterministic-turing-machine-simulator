@@ -49,6 +49,10 @@ taken the single instruction:
 
 This program example will accept all the strings even multiple of the string 'aa' and it will print strings multiple of 'bcd' and 'cbd' and their mixes,<br/> because of his nondetermination.<br/>
 
+# fileIN are the input files.
+# fileOUT are the output files.
+# TM.c is the simulator C code.
+
 I've done this for school purpose.
 
 
