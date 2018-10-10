@@ -1,5 +1,7 @@
 # nondeterministic-turing-machine-simulator
-This program implements a nondeterministic Turing machine simulator in C.
+This program implements a one tape nondeterministic Turing machine simulator in C, simulating the nondeterminism with a queue where are stored all the possible possibilities.
+Every cicle the last element of the queue will be analyzed and the program will act accordingly.
+The transitions are stored in a array (representing states) of arrays (representing chars), from each cell of the last array starts a list in which every element contains a transition (only the char to be written, the next state and the movement).
 
 This program accept files written in the following way:
 
