@@ -3,7 +3,7 @@ This program implements a nondeterministic Turing machine simulator in C.
 
 This program accept files written in the following way:
 
-tr
+tr<br/>
 0 a b 1 R<br/>
 0 a c 1 R<br/>
 1 a d 0 R<br/>
