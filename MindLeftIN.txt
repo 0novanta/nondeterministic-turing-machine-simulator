@@ -1,0 +1,53 @@
+tr
+0 a d L 1
+1 _ a R 2
+2 a a R 2
+2 d d R 3
+3 d d R 3
+3 b b R 6
+6 b b R 6
+3 a d L 4
+4 d d L 4
+4 a a L 5
+5 a a L 5
+5 _ a R 2
+6 c c R 7
+7 c c R 7
+7 _ _ L 8
+8 c _ L 9
+9 c c L 9
+9 b b L 10
+10 b b L 10
+10 d d L 11
+11 d d L 11
+11 a a L 12
+12 a a L 12
+12 _ _ R 13
+13 a _ R 14
+14 a a R 15
+15 a a R 15
+15 d d R 3
+14 d d S 16
+16 d _ R 17
+17 d d R 17
+17 b b R 18
+18 b b R 18
+18 _ _ L 19
+19 b _ L 20
+20 b b L 20
+20 d d L 21
+21 d d L 21
+21 _ _ R 16
+20 _ _ S 22
+acc
+22
+max
+500
+run
+aaaaaaabbbbbbbccccccc
+abc
+aaaaabbbbbcccc
+aabbcc
+aaaaaa
+abbbccc
+aaaaaaccccccbbbbbb
