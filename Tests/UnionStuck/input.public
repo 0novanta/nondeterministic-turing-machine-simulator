@@ -1,0 +1,32 @@
+tr
+0 a a R 1
+1 a a R 1
+1 _ _ R 2
+0 a a R 3
+3 b b R 3
+3 b b R 4
+4 c c R 5
+5 c c R 5
+5 _ _ S 6
+0 a a R 7
+7 b b R 7
+7 c c R 8
+8 c c R 8
+8 _ _ S 9
+acc
+2
+6
+max
+50
+run
+aaaaaaaaaaaaaaaa
+abbbbbbbbccccccc
+aaaaaabb
+ab
+aabbbbccc
+ababa
+aaaab
+aaaccccccc
+aaaaaaaa
+aabaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

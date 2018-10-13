@@ -1,0 +1,285 @@
+tr
+0 a c R 1
+1 a c R 1
+1 b d L 2
+2 c c L 2
+2 _ _ R 3
+3 c a R 4
+4 c c R 5
+4 d d L 9
+5 c c R 5
+5 d d R 6
+6 d d R 6
+6 b d L 7
+7 d d L 7
+7 c c L 8
+8 c c L 8
+8 a a R 3
+9 a a L 9
+9 _ _ R 10
+10 a _ R 11
+11 a a R 12
+12 a a R 12
+11 b b R 23
+11 d d R 24
+23 b b R 23
+24 d d R 24
+23 d d R 24
+24 g g R 25
+12 d c R 14
+14 d c R 14
+12 b b R 13
+13 b b R 13
+13 d c R 14
+14 b d L 15
+15 c c L 15
+15 a a R 16
+15 b b R 16
+16 c b R 17
+17 c c R 18
+18 c c R 18
+18 d d R 19
+19 d d R 19
+19 b d L 20
+17 d d L 20
+18 b d L 20
+20 d d L 20
+20 c c L 21
+21 c c L 21
+21 b b R 16
+20 b b L 22
+22 b b L 22
+22 a a L 9
+0 a a R 26
+26 a a R 26
+26 b b R 33
+33 b b S 33
+26 b b R 27
+27 b b R 27
+27 _ _ L 28
+28 b _ L 29
+29 b b L 29
+29 a a L 30
+30 a a L 30
+30 _ _ R 31
+31 a _ R 34
+34 _ _ S 32
+34 a a R 26
+25 g g R 35
+35 a a R 36
+36 b b R 37
+37 c c R 38
+38 a a R 39
+39 b b R 40
+40 c c R 41
+41 a a R 42
+42 b b R 43
+43 c c R 44
+44 a a R 45
+45 b b R 46
+46 c c R 47
+47 a a R 48
+48 b b R 49
+49 c c R 50
+50 a a R 51
+51 b b R 52
+52 c c R 53
+53 a a R 54
+54 b b R 55
+55 c c R 56
+56 a a R 57
+57 b b R 58
+58 c c R 59
+59 a a R 60
+60 b b R 61
+61 c c R 62
+62 a a R 63
+63 b b R 64
+64 c c R 65
+65 a a R 66
+66 b b R 67
+67 c c R 68
+68 a a R 69
+69 b b R 70
+70 c c R 71
+71 a a R 72
+72 b b R 73
+73 c c R 74
+74 a a R 75
+75 b b R 76
+76 c c R 77
+77 a a R 78
+78 b b R 79
+79 c c R 80
+80 a a R 81
+81 b b R 82
+82 c c R 83
+83 a a R 84
+84 b b R 85
+85 c c R 86
+86 a a R 87
+87 b b R 88
+88 c c R 89
+89 a a R 90
+90 b b R 91
+91 c c R 92
+92 a a R 93
+93 b b R 94
+94 c c R 95
+95 a a R 96
+96 b b R 97
+97 c c R 98
+98 a a R 99
+99 b b R 100
+100 c c R 101
+101 a a R 102
+102 b b R 103
+103 c c R 104
+104 a a R 105
+105 b b R 106
+106 c c R 107
+107 a a R 108
+108 b b R 109
+109 c c R 110
+110 a a R 111
+111 b b R 112
+112 c c R 113
+113 a a R 114
+114 b b R 115
+115 c c R 116
+116 a a R 117
+117 b b R 118
+118 c c R 119
+119 a a R 120
+120 b b R 121
+121 c c R 122
+122 a a R 123
+123 b b R 124
+124 c c R 125
+acc
+125
+32
+max
+5000000
+run
+abababab
+aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaa
+bbbbbb
+aaaaaabbbbbb
+aaaaaa
+aaabbb
+aaaaaabbbbbb
+aaaaaaabbbbbbb
+abababab
+aaabbbb
+aaaaaaabbbbbbb
+aaaaaaaabbbbbbbb
+aaabbb
+aaabbbb
+aaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaaa
+aaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaaaabbbbbbbb
+aaaaaaaa
+abababab
+aaabbb
+bbbbbbbb
+aaaaaaaa
+bbbbbbbb
+ababab
+aaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+bbbbbbbb
+aaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+bbbbbbb
+aaaaaaabbbbbbb
+aaabbbb
+aaaaaaabbbbbbb
+bbbbbbbb
+abababab
+aaabbbb
+aaaaaaaabbbbbbbb
+abababab
+aaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+bbbbbbb
+aaaaaaabbbbbbb
+aaaaaa
+aaaabbb
+aaaaaaaa
+aaabbbb
+aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+abababab
+aaaabbb
+abababab
+aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaaaabbbbbbbb
+aaabbb
+bbbbbbb
+aaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+abababab
+aaaaaaaabbbbbbbb
+ababab
+aaaaaaabbbbbbb
+aaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaaabbbbbbb
+bbbbbb
+aaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+bbbbbbb
+aaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaa
+aaaaaaa
+aaaaaabbbbbb
+bbbbbbbb
+aaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+ababab
+ababab
+bbbbbb
+aaaaaaa
+aaaaaaaa
+bbbbbbb
+abababab
+bbbbbbb
+ababab
+aaabbbb
+aaaaaaaa
+abababab
+ababab
+aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+ababab
+aaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaabbbbbb
+aaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaabbb
+aaaabbbb
+aaaaaaa
+bbbbbbbb
+aaaaaaaabbbbbbbb
+bbbbbb
+aaaabbbb
+aaaaaa
+bbbbbbbb
+aaaaaa
+aaaaaabbbbbb
+aaaaaa
+aaaabbb
+aaabbbb
+ababab
+aaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaabbbb
+aaaaaaaabbbbbbbb
+bbbbbbb
+aaaaaabbbbbb
+bbbbbb
+aaaaaaaa
+aaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbggabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc
+aaaaaaaa
+aaabbb
+aaabbb
+ababab
+ababab
+bbbbbb
+aaaaaaaa
+aaaaaaa
+ababab
