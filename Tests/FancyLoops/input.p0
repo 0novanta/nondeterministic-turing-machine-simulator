@@ -1,0 +1,52 @@
+tr
+1 x x R 3
+0 x X R 1
+9 x x R 9
+2 z z L 2
+0 z Z R 1
+3 y y R 4
+2 x x L 5
+5 x x L 5
+7 _ _ S 6
+2 y y L 2
+0 x x S 8
+7 z z L 7
+2 z z L 5
+9 z z R 9
+1 z z R 1
+0 y y S 8
+2 X _ R 0
+5 z z L 5
+7 y y R 7
+8 y y S 9
+2 y y L 5
+2 x x L 2
+8 x x S 9
+5 y y L 5
+8 z z S 9
+0 y y R 5
+1 y y R 1
+0 x x L 5
+0 z z S 5
+0 x x R 3
+4 z z L 7
+1 _ _ L 2
+0 z z S 8
+8 z z R 8
+8 x x R 8
+1 x x R 1
+2 Y _ R 0
+8 y y R 8
+0 y Y R 1
+2 Z _ R 0
+9 y y R 9
+acc
+6
+max
+500000
+run
+xxxyzzzzzzy
+zyzzyyzzyyxxzyyzyzzyzyzzzzyzzyyzzyzyzzz
+yyyyyyzyyyyyyyyyyyyyxxxxyyyzzzzyz
+yyyyyxyyzzyzxzzzzzzzzzzzzyxyz
+zzzzyzyyyyyyyyyyyzzzyyz
