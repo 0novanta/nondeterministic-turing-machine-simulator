@@ -1,0 +1,108 @@
+///Exercise 1 -- IncreasingStuff
+Time limit: 17 seconds
+Memory limit: 4 MB
+
+Subtask 1: -Time: 0.001 s 
+(public) -Memory: 128 KB
+
+Subtask 2: -Time: 2.648 s
+			  -Memory: 2.63 MB
+
+Subtask 3: -Time: 4.527 s
+			  -Memory: 2.25 MB
+
+Subtask 4: -Time: 9.663 s
+			  -Memory: 2.63 MB
+			  
+///
+///Exercise 2 -- FancyLoops 
+Time limit: 20 seconds
+Memory limit: 1 MB
+
+Subtask 1: -Time: 0.211 s
+(public) -Memory: 128 KB
+
+Subtask 2: -Time: 3.132 s
+			  -Memory 260 KB
+			  
+Subtask 3: -Time: 5.283 s
+			  -Memory: 256 KB
+
+Subtask 4: -Time: 12.512 s
+			  -Memory: 256 KB
+
+///
+///Exercise 3 -- MindYourLeft
+Time limit: 20 s
+Memory limit: 1 MB
+
+Subtask 1: -Time: 0.001 s
+(public) -Memory: 128 KB
+
+Subtask 2: -Time: 1.356 s
+			  -Memory: 385 KB
+
+Subtask 3: -Time: 3.093 s
+			  -Memory: 256 KB
+
+Subtask 4: -Time: 11.514 s
+			  -Memory: 256 KB
+			  
+///
+///Exercise 4 -- UnionStuck
+Time limit: 21 s
+Memory limit: 1 MB
+
+Subtask 1: -Time: 0.001 s
+(public) -Memory: 128 KB
+
+Subtask 2: -Time: 0.003 s
+			  -Memory: 256 KB
+
+Subtask 3: -Time: 0.004 s
+			  -Memory: 256 KB
+
+Subtask 4: -Time: 0.016 s
+			  -Memory: 256 KB
+			  
+///
+///Exercise 5 -- DontGetLost
+Time limit: 20.5 s
+Memory limit: 7 MB
+
+Subtask 1: -Time: 0.003 s
+(public) -Memory: 128 KB
+
+Subtask 2: -Time: 3.060 s
+			  -Memory: 2.38 MB
+
+Subtask 3: -Time: 5.169 s
+			  -Memory: 2.25 MB
+
+Subtask 4: -Time: 12.012 s
+			  -Memory 2.25 MB 
+			  
+///
+///Exercise 6 -- ToCOrNoToC
+Time limit: 19.5 s
+Memory limit: 20 MB
+
+Subtask 1: -Time: 0.000 s
+(public) -Memory: 128 KB
+
+Subtask 2: -Time: 0.546 s
+		     -Memory: 128 KB
+
+Subtask 3: -Time: 0.530 s
+			  -Memory: 128 KB
+
+Subtask 4: -Time: 1.948 s
+			  -Memory: 256 KB
+
+///
+///Laude
+Time limit: 16 s
+Memory limit: 16 MB
+
+Subtask 1: -Time: 1.956 s
+			  -Memory: 384 KB
