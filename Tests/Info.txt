@@ -1,0 +1,1 @@
+This folder contains tests (more complicated than those in IN folder) and their results.
