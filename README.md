@@ -52,6 +52,7 @@ This program example will accept all the strings even multiple of the string 'aa
 # fileIN are the input files.
 # fileOUT are the output files.
 # TM.c is the simulator C code.
+# Tests folder contains more tough versions of the IN folder files.
 
 I've done this for school purpose.
 
