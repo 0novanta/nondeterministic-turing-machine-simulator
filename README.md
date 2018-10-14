@@ -49,8 +49,8 @@ taken the single instruction:
 
 This program example will accept all the strings even multiple of the string 'aa' and it will print strings multiple of 'bcd' and 'cbd' and their mixes,<br/> because of his nondetermination.<br/>
 
-# fileIN are the input files.
-# fileOUT are the output files.
+# IN folder contains examples of input files.
+# OUT folder contains outputs of the example inputs.
 # TM.c is the simulator C code.
 # Tests folder contains more tough versions of the IN folder files.
 
